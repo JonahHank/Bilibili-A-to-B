@@ -1,0 +1,10 @@
+D:\Me\Projects\AtoB\AtoB\bin\Release\AtoB.exe
+D:\Me\Projects\AtoB\AtoB\bin\Release\AtoB.pdb
+D:\Me\Projects\AtoB\AtoB\bin\Release\AtoB.xml
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.vbprojAssemblyReference.cache
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.MainForm.resources
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.Resources.resources
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.vbproj.GenerateResource.cache
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.exe
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.xml
+D:\Me\Projects\AtoB\AtoB\obj\Release\AtoB.pdb
